@@ -2,4 +2,4 @@
 add a line again.
 add a line three times again.
 git has a mutable index called stage.
-git tacks changes.
+git tacks changes of files.
